@@ -73,13 +73,13 @@ body {background-color: #CCC;}
 
 @media screen and (min-width: 750px) {
   .wikipedia-container {
-    width: 25%;
+    width: 45%;
     }
     .mid-box{
-    width: 50%;
+    width: 10%;
     }
     .nytimes-container {
-    width: 25%;
+    width: 45%;
   }
   .greeting {
     width: 100%;
